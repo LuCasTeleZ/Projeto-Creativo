@@ -14,7 +14,7 @@ header {
     padding: 40px 120px;
     justify-content: space-between;
     position: fixed;
-    left: 15%;
+    left: 5%;
     width: 100%;
     text-align: center;
     background-color: rgb(255, 255, 255);
@@ -167,7 +167,7 @@ footer  {
   body {
     max-width: 480px;
     font-size: 1cm;
-  }  
+  }   
 }
 
 
